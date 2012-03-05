@@ -1,0 +1,5 @@
+"CFBundleIdentifier" = "org.h2co3.metronome";
+"CFBundleName" = "Metronome";
+"CFBundleVersion" = "1.0";
+"CFBundleExecutable" = "Metronome";
+"UIStatusBarStyle" = "UIStatusBarStyleBlackOpaque";
